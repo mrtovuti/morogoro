@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "satellite": {
+      "geometry": {
         "type": "Point",
         "coordinates": [
           37.759527,
